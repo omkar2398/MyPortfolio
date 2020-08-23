@@ -80,7 +80,7 @@ f8b236 light orange */
 }
 
 .heroArea a:hover {
-  color: #ad4141;
+  color: #001526;
 }
 
 .socialMediaIcons {
@@ -98,6 +98,7 @@ f8b236 light orange */
 .customButtonColor {
   height: 4rem;
   width: 10rem;
+  border-radius: 10px;
   background-color: #458da6;
 }
 
